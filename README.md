@@ -75,4 +75,5 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=milon27&count_private=true&show_icons=true&include_all_commits=true)](https://milon27.com/)
 </p>
