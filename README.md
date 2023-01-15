@@ -68,9 +68,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/arifjahan88">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifjahan88&amp;show_icons=true" alt="GitHub Stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=arifjahan88&amp;count_private=true&show_icons=true&include_all_commits=true">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjahan88&amp;show_icons=true" alt="GitHub Stats">  
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
