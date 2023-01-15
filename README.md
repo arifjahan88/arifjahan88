@@ -70,6 +70,7 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 <a href="https://github.com/arifjahan88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifjahan88&theme=noctis&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifjahan88&theme=noctis&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arifjahan88&amp;show_icons=true" alt="GitHub Stats">
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
