@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&text=Hello!&height=100&section=header"/>
 </p>
 
-[![about](image.png)](https://portfolio-react-ddd47.web.app/)
-
-<h2 align="center">Hi,This is ✨ Md Arif Jahan✨, I am Web(Node Js, React Js, Next Js) Developer - available for remote work.</h2>
+<h2 align="center">Hello 👋, I'm Md Arif Jahan ✨, an experienced Web Developer proficient in Node.js, React.js, and Next.js, with a strong background in MongoDB and PostgreSQL databases. I'm currently seeking opportunities to apply my skills and contribute to impactful projects.</h2>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -13,17 +11,11 @@
 ```yaml
 name: Md Arif Jahan
 located_in: Dhaka, Bangladesh
-current_job: Front-End Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer and Science Engineering",
-  ]
+current_job: Full-Stack Developer
 
 fields_of_interests: ["Web Development", "Machine Learning", "UI/UX"]
 
-currently_learning: ["JavaScript, Next JS and React JS"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+currently_learning: ["Redis, Kafka, Prisma, Web Socket"]
 hobbies: ["Gaming", "Cinema", "Comedy"]
 ```
 
